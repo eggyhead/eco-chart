@@ -6,3 +6,7 @@
 export {default as Navbar} from './navbar'
 export {default as UserHome} from './user-home'
 export {Login, Signup} from './auth-form'
+export {default as SimplePieChart} from './pie-chart'
+export {default as SimpleBarChart} from './bar-chart'
+export {default as DataDisplay} from './data-display'
+export {default as QuestionForm} from './question-form'
